@@ -1,19 +1,19 @@
-<h1 align="center">To.Do</h1>
+<h1 align="center">To.Do v.2</h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jtiagosantos/to.do-app?color=%green">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jtiagosantos/to.do-app?color=blue">
-  <a href="https://github.com/jtiagosantos/to.do-app/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtiagosantos/to.do-app?color=purple">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jtiagosantos/to.do-app-v.2?color=%green">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jtiagosantos/to.do-app-v.2?color=blue">
+  <a href="https://github.com/jtiagosantos/to.do-app-v.2/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtiagosantos/to.do-app-v.2?color=purple">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=orange">
-   <a href="https://github.com/jtiagosantos/to.do-app/stargazers">
+   <a href="https://github.com/jtiagosantos/to.do-app-v.2/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jtiagosantos/my-skills-app?style=social">
   </a>
 </p>
 
 <h4 align="center"> 
-	🚧 To.Do 📝 Completed 🚀 🚧
+	🚧 To.Do v.2 📝 Completed 🚀 🚧
 </h4>
 
 <p align="center">
@@ -40,6 +40,7 @@
 - [x] Add a new task
 - [x] Mark a task as done
 - [x] Delete a task   
+- [x] Edit a task 
 - [x] See tasks quantity 
 
 <hr>
@@ -49,8 +50,8 @@
 1️⃣ Clone project and access its folder:
 
 ```bash
-$ git clone https://github.com/jtiagosantos/to.do-app.git
-$ cd to.do-app
+$ git clone https://github.com/jtiagosantos/to.do-app-v.2.git
+$ cd to.do-app-v.2
 ```
 
 2️⃣ Install dependencies:
@@ -69,12 +70,6 @@ $ yarn android or npm run android
 $ yarn ios or npm run ios
 ```
 
-4️⃣ Run tests:
-
-```bash
-$ yarn test or npm run test
-```
-
 <hr>
 
 ## 🛠 Technologies
@@ -90,7 +85,7 @@ The following tools were used in the construction of project:
 
 You can view the project layout through the link below:
 
-- **[Layout](https://www.figma.com/file/JZS6SWbzv16fHbf2zZ9wVi/to.do-(Copy)?node-id=10485%3A499)**
+- **[Layout](https://www.figma.com/file/ygC8FgSF5dmXMySWn8sWFD/to.do-(Copy)?node-id=0%3A1)**
 
 <hr>
 
